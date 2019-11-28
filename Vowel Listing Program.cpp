@@ -1,5 +1,3 @@
-
-
 #include "iostream" //To include in-out library.
 
 #include "conio.h" //For including the _getch().

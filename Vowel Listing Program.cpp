@@ -1,14 +1,4 @@
-/****************************************************************************
-**					SAKARYA ÜNÝVERSÝTESÝ
-**			         BÝLGÝSAYAR VE BÝLÝÞÝM BÝLÝMLERÝ FAKÜLTESÝ
-**				    BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ
-**				          PROGRAMLAMAYA GÝRÝÞÝ DERSÝ
-**
-**				ÖDEV NUMARASI…...:
-**				ÖÐRENCÝ ADI...............:SALÝH EREN DEÐÝRMENCÝ
-**				ÖÐRENCÝ NUMARASI.:G181210017	
-**				DERS GRUBU…………:D
-****************************************************************************/
+
 
 #include "iostream" //To include in-out library.
 
@@ -51,7 +41,7 @@ int main()
 			ecount++;
 		}
 
-		if (ch == 'i' || ch == 'Ý')  //This will be count how many i that user going to type.
+		if (ch == 'i' || ch == 'ï¿½')  //This will be count how many i that user going to type.
 		{
 			icount++;
 		}
@@ -133,7 +123,7 @@ int main()
 
 		for (int udisplay = 0; udisplay < ucount; udisplay++) //This for loop for printing "u" for how much user typed.
 		{
-			cout << setw(3) << "ý";
+			cout << setw(3) << "ï¿½";
 		}
 
 		cout << endl;

@@ -1,14 +1,4 @@
-/****************************************************************************
-**					SAKARYA ÜNÝVERSÝTESÝ
-**			         BÝLGÝSAYAR VE BÝLÝÞÝM BÝLÝMLERÝ FAKÜLTESÝ
-**				    BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ
-**				          PROGRAMLAMAYA GÝRÝÞÝ DERSÝ
-**
-**				ÖDEV NUMARASI…...:1
-**				ÖÐRENCÝ ADI...............: SALÝH EREN DEÐÝRMENCÝ
-**				ÖÐRENCÝ NUMARASI.:G181210017
-**				DERS GRUBU…………:D
-****************************************************************************/
+
 
 
 #include <iostream> //For including in-out library.	
@@ -25,7 +15,7 @@ int main()
 		for (column = 1; column <= 11; column++) //For loop for column range.
 		
 		{
-			if (row == 1, column == 6) // Ýf for we want space at row 1 column 6.
+			if (row == 1, column == 6) // ï¿½f for we want space at row 1 column 6.
 
 				cout << " ";
 
